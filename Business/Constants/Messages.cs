@@ -21,7 +21,7 @@ namespace Business.Constants
         public static string UserRegistered = "User Registered.";
         public static string UserNotFound = "User Not Found!";
         public static string PasswordError = "Invalid Password!";
-        public static string SuccessfulLogin = "Login Successfull.";
+        public static string SuccessfulLogin = "Login Successful.";
         public static string UserAlreadyExists = "User Already Exists!";
         public static string AccessTokenCreated = "AccessTokenCreated";
     }
